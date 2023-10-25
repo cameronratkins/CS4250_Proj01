@@ -2,11 +2,6 @@
  Cameron Atkins
  CompSci 4250
  Project 01, Due: Friday February 10, 2023 by 11:59 PM
-
-
- In order for this program to work, copy
- and paste the source code into onlinegdb (Java) upload a file named
- front.in.
  *********************************************************/
 
 import java.io.*;
